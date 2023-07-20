@@ -1,4 +1,11 @@
 <div align="center">
+  [file_example_WEBM_480_900KB.webm](https://github.com/cosmicsarthak/cosmicsarthak/assets/73431135/2a062343-d5c7-4ad1-aa03-0b9d374df3b9)
+
+<video >
+  <source src="[movie.mp4](https://github.com/cosmicsarthak/cosmicsarthak/assets/73431135/ae2f4594-2497-4e5d-b656-1914d0f4b9e0)" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 
 # Hey! I'm Sarthak Mohanty <a href="https://github.com/cosmicsarthak#hey-im-sarthak-mohanty----%EF%B8%8F--aka----cosmicsarthak" ><img src="https://github.com/cosmicsarthak/cosmicsarthak/blob/main/assets/wave.gif" width="30px"></a> &nbsp;  〽️ <sub> a.k.a. </sub>  &nbsp; `cosmicsarthak`
 
