@@ -14,7 +14,7 @@
 ## :wave: About Me
 
 <a href="https://linkedin.com/in/cosmicsarthak/" target="__blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://twitter.com/cosmicsarthak" target="__blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-👩‍🎓 Hey! I'm **Sarthak**, a 19 year old _3<sup>rd</sup> Year B.Tech CSE Student_ from India.
+👩‍🎓 Hey! I'm **Sarthak**, a 22 year old _Full Stack Indie Developer_ from India.
 
 :octocat: I love learning new Tech Stuffs 💖 :octocat:!
 
